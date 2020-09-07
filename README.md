@@ -1,6 +1,6 @@
 ## 매일 1시간씩 개발 공부
 
-[Day001]je7.github.io/Day1.html
+[Day001](je7.github.io/Day1.html)
 
 You can use the [editor on GitHub](https://github.com/JE7/je7.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
